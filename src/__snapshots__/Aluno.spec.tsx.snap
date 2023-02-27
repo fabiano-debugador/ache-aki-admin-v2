@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`fetchUsers Delete studant 1`] = `
+[
+  <tr
+    data-testid="listOfStudants"
+  >
+    <td>
+      Valentino Rossi
+    </td>
+    <td />
+    <td>
+       
+       
+    </td>
+    <td>
+      <button
+        class="btn btn-danger"
+        data-testid="update"
+        type="button"
+      >
+        Atualizar
+      </button>
+       
+      /
+      <button
+        class="btn btn-danger"
+        data-testid="delete"
+        type="button"
+      >
+        Deletar
+      </button>
+    </td>
+  </tr>,
+  <tr
+    data-testid="listOfStudants"
+  >
+    <td>
+      Jéssica
+    </td>
+    <td>
+      19 9098098080
+    </td>
+    <td>
+       
+      jessica@mail.com
+       
+    </td>
+    <td>
+      <button
+        class="btn btn-danger"
+        data-testid="update"
+        type="button"
+      >
+        Atualizar
+      </button>
+       
+      /
+      <button
+        class="btn btn-danger"
+        data-testid="delete"
+        type="button"
+      >
+        Deletar
+      </button>
+    </td>
+  </tr>,
+]
+`;
+
+exports[`fetchUsers Testing CRUD Delete studant 1`] = `
+[
+  <tr
+    data-testid="listOfStudants"
+  >
+    <td>
+      Valentino Rossi
+    </td>
+    <td />
+    <td>
+       
+       
+    </td>
+    <td>
+      <button
+        class="btn btn-danger"
+        data-testid="update"
+        type="button"
+      >
+        Atualizar
+      </button>
+       
+      /
+      <button
+        class="btn btn-danger"
+        data-testid="delete"
+        type="button"
+      >
+        Deletar
+      </button>
+    </td>
+  </tr>,
+  <tr
+    data-testid="listOfStudants"
+  >
+    <td>
+      Jéssica
+    </td>
+    <td>
+      19 9098098080
+    </td>
+    <td>
+       
+      jessica@mail.com
+       
+    </td>
+    <td>
+      <button
+        class="btn btn-danger"
+        data-testid="update"
+        type="button"
+      >
+        Atualizar
+      </button>
+       
+      /
+      <button
+        class="btn btn-danger"
+        data-testid="delete"
+        type="button"
+      >
+        Deletar
+      </button>
+    </td>
+  </tr>,
+]
+`;
+
+exports[`fetchUsers Testing CRUD Update studant 1`] = `
+<tr
+  data-testid="listOfStudants"
+>
+  <td>
+    mario e luigi
+  </td>
+  <td>
+    11 90797979
+  </td>
+  <td>
+     
+    7979/0900-98
+     
+  </td>
+  <td>
+    <button
+      class="btn btn-danger"
+      data-testid="update"
+      type="button"
+    >
+      Atualizar
+    </button>
+     
+    /
+    <button
+      class="btn btn-danger"
+      data-testid="delete"
+      type="button"
+    >
+      Deletar
+    </button>
+  </td>
+</tr>
+`;
